@@ -1,0 +1,15 @@
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+button {
+  background-image: url(../button.jpg);;
+}
